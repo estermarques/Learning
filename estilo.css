@@ -1,0 +1,29 @@
+.fonte {
+    color:rgb(231, 53, 82);
+    font-family: 'sallim';
+    font-size: 100px;
+}
+
+.titulo {
+    color:rgb(231, 53, 82);
+    font-family: 'sallim';
+    font-size: 60px;
+}
+
+.assinatura{
+    color:rgb(116, 189, 155);
+    font-family: 'sallim';
+    font-size: 40px;
+}
+
+.foto{
+    margin-left: -24px;
+    width: 105%;
+}
+
+@font-face {
+    font-family: "sallim";
+    src:
+    url("../projfinal/sallim_signature/SallimSignature.ttf") format("ttf"),
+    url("../projfinal/sallim_signature/SallimSignature.otf") format("opentype")
+}
